@@ -1,0 +1,10 @@
+WiFi Password Retrieval Script (For Educational Purposes Only)
+
+Disclaimer:
+
+This script is for educational purposes only. Unauthorized access to computer systems is a crime. Use this script only on your own authorized networks and with proper permission.
+
+Security Considerations:
+
+Sharing WiFi passwords can compromise network security. Be cautious about using this script and always prioritize authorized access methods.
+
